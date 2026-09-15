@@ -1,0 +1,113 @@
+[
+  {
+    "domain": "postman.com",
+    "company_name": "Postman",
+    "company_overview": "Postman is the leading API platform for building and using APIs, simplifying each step of the API lifecycle. It enables over 30 million developers and 500,000 organizations to streamline collaboration and accelerate API delivery.",
+    "target_audience_icp": "Software engineers, API developers, QA automation teams, and enterprise IT leaders.",
+    "contact_points": [
+      "help@postman.com",
+      "sales@postman.com",
+      "security@postman.com"
+    ],
+    "key_leadership": [
+      {
+        "name": "Abhinav Asthana",
+        "title": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/abhinavasthana"
+      },
+      {
+        "name": "Ankit Sobti",
+        "title": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/asobti"
+      },
+      {
+        "name": "Abhijit Kane",
+        "title": "Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/abhijitkane"
+      }
+    ],
+    "data_confidence_score": 0.95,
+    "crawled_subpages": [
+      "/",
+      "/about",
+      "/company",
+      "/pricing"
+    ],
+    "tokens_used": {
+      "prompt_tokens": 1420,
+      "completion_tokens": 310,
+      "total_tokens": 1730
+    },
+    "estimated_cost_usd": 0.001273,
+    "status": "success",
+    "error_message": null
+  },
+  {
+    "domain": "supabase.com",
+    "company_name": "Supabase",
+    "company_overview": "Supabase is an open-source Firebase alternative providing developers with a full Postgres database, authentication, instant APIs, edge functions, and real-time subscriptions. It empowers developers to build production-ready applications with zero backend boilerplate.",
+    "target_audience_icp": "Full-stack developers, startup founders, backend engineers, and web application teams.",
+    "contact_points": [
+      "support@supabase.com",
+      "sales@supabase.io"
+    ],
+    "key_leadership": [
+      {
+        "name": "Paul Copplestone",
+        "title": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/paulcopplestone"
+      },
+      {
+        "name": "Ant Wilson",
+        "title": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/antwilson"
+      }
+    ],
+    "data_confidence_score": 0.92,
+    "crawled_subpages": [
+      "/",
+      "/about",
+      "/pricing",
+      "/company"
+    ],
+    "tokens_used": {
+      "prompt_tokens": 1280,
+      "completion_tokens": 275,
+      "total_tokens": 1555
+    },
+    "estimated_cost_usd": 0.001143,
+    "status": "success",
+    "error_message": null
+  },
+  {
+    "domain": "vapi.ai",
+    "company_name": "Vapi AI",
+    "company_overview": "Vapi AI is a voice AI developer platform that enables businesses to build, test, and deploy ultra-low latency voice agents in minutes. It provides robust APIs for real-time conversational AI workflows across telephone and web channels.",
+    "target_audience_icp": "AI engineers, voice bot developers, customer support tech teams, and automated call center builders.",
+    "contact_points": [
+      "support@vapi.ai",
+      "contact@vapi.ai"
+    ],
+    "key_leadership": [
+      {
+        "name": "Jordan Davis",
+        "title": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/jordandavis-vapi"
+      }
+    ],
+    "data_confidence_score": 0.88,
+    "crawled_subpages": [
+      "/",
+      "/about",
+      "/pricing"
+    ],
+    "tokens_used": {
+      "prompt_tokens": 1150,
+      "completion_tokens": 240,
+      "total_tokens": 1390
+    },
+    "estimated_cost_usd": 0.001021,
+    "status": "success",
+    "error_message": null
+  }
+]

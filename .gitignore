@@ -1,0 +1,60 @@
+# Environment variables & secrets (CRITICAL: NEVER COMMIT API KEYS)
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Selenium & Web Browser Temp Artifacts
+chromedriver.exe
+chromedriver
+*.log
+geckodriver.log
+ghostdriver.log
+user_data/
+tmp/
+temp/
+
+# IDE & OS Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Streamlit Local Cache & Config
+.streamlit/secrets.toml
+
+# Scratch / One-off debug test scripts (optional - remove # if you want to exclude them)
+# test_*.py
+# speed_test.py
